@@ -8,10 +8,10 @@ Sistem ini digunakan untuk mengolah dan menganalisis data wisata di Yogyakarta m
 ---
 
 ## Anggota Kelompok
-- Darel Prasetya Fawwaz - 240911607
+- Darel Prasetya Fawwaz - 2409116064
 - Christian Amsal Asimaro Lumban Tobing — 2409116053
 - Muhammad Irdhan Nur Faudzan - 2409116077
-- Zidan Daffa Ramadhan - 240911607
+- Zidan Daffa Ramadhan - 2409116056
 
 ---
 
