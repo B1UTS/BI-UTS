@@ -1,29 +1,65 @@
-# Data Warehouse Project
+# Data Warehouse Wisata Jogja
 
 ## Deskripsi
 Project ini dibuat untuk memenuhi tugas mata kuliah Data Warehouse.
 
-Sistem ini digunakan untuk mengolah dan menganalisis data wisata menggunakan konsep Data Warehouse dan Business Intelligence.
+Sistem ini digunakan untuk mengolah dan menganalisis data wisata di Yogyakarta menggunakan konsep Data Warehouse dan Business Intelligence berbasis website.
+
+---
 
 ## Anggota Kelompok
-- Muhammad Irdhan Nur Faudzan
-- Darel Prasetya Fawwaz 24091160
-- Christian Amsal Asimaro Lumban Tobing 2409116053
-- Muhammad Irdhan Nur Faudzan 2409116077
-- Zidan Daffa Ramadhan 24091160
+- Darel Prasetya Fawwaz - 240911607
+- Christian Amsal Asimaro Lumban Tobing — 2409116053
+- Muhammad Irdhan Nur Faudzan - 2409116077
+- Zidan Daffa Ramadhan - 240911607
+
+---
 
 ## Fitur
-- ETL Process
-- Data Cleaning
-- Data Warehouse
-- Dashboard Visualisasi
-- Analisis Data
+
+### Website
+Website digunakan sebagai media utama untuk menampilkan dashboard, visualisasi data, dan hasil analisis data wisata Jogja.
+
+### ETL Process
+Melakukan proses Extract, Transform, dan Load data ke dalam database warehouse.
+
+### Data Cleaning
+Membersihkan data agar lebih rapi, konsisten, dan siap dianalisis.
+
+### Data Warehouse
+Menyimpan data terintegrasi untuk kebutuhan analisis dan visualisasi data.
+
+### Dashboard Visualisasi
+Menampilkan grafik dan informasi data wisata dalam bentuk visual yang mudah dipahami.
+
+### Analisis Data
+Membantu pengguna melihat insight dan informasi penting dari data wisata di Yogyakarta.
+
+---
 
 ## Tools yang Digunakan
+- PHP
+- Laravel
 - MySQL
 - Python
-- Power BI / Tableau
+- Bootstrap
 - GitHub
+
+---
 
 ## Struktur Project
 ```bash
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+storage/
+```
+
+---
+
+## Status Project
+🚧 Project masih dalam tahap pengembangan.
