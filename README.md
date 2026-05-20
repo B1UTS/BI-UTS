@@ -1,5 +1,7 @@
 # Data Warehouse Wisata Yogyakarta
 
+Lini GCOLAB: https://colab.research.google.com/drive/194rD3l1ufcvxk3svofQKVkOFFCamPt5a?usp=sharing
+
 ## 1. Pendahuluan
 
 ### 1.1 Latar Belakang
