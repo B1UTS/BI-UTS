@@ -275,7 +275,8 @@ Struktur Star Schema terdiri dari:
 * 1 Fact Table
 * beberapa Dimension Table
 
-<img src="visualization/star_schema.png" width="100%">
+<img width="1536" height="1024" alt="star schema" src="https://github.com/user-attachments/assets/019722ff-b2a6-4fea-b248-671c03ff275e" />
+
 
 ---
 
